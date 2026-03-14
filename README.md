@@ -33,7 +33,10 @@ greet("홍길동")
 
 [구글로 가기](https://share.google/nvUlJUk3OQEhT9SrC)
 
-귀여운 고양이 이미지 
+귀여운 고양이 이미지: 
+![Alt text](/path/to/img.jpg)
+
+
 
 
 
